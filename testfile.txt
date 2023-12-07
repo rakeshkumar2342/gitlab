@@ -1,0 +1,4 @@
+my name is rakesh kumar today is my first lab in git hub lab. 
+and today we learnt how to create a github accout. after creating the account we created the repositry
+of name github.
+thank you . 
